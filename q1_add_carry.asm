@@ -1,7 +1,7 @@
 ; Name: abdullah hassan farghaly
 ; Student ID: 2025001077
 ; Section: 2
-; Question: Q1 8-Bit Addition with Carry
+; Question:1
 
 LDA 2500H       
 MOV B, A        
